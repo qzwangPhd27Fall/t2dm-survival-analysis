@@ -21,6 +21,3 @@ Reproducible analysis code for three papers on **substandard-life (impaired-life
 
 ~1,883,235 real-world T2DM inpatient claim records (proprietary; not included in this repository).
 
-## Related manuscript
-
-Y. Xie, Q. Wang, "Deep Survival Analysis with Temporal Trajectory Embedding for Substandard Life Insurance Pricing: A DeepSurv Modeling Study of Type 2 Diabetes Mellitus," submitted to *Statistics in Medicine*.
